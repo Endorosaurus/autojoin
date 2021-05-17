@@ -31,5 +31,5 @@ while a<2:
         if hour == now.hour and minute == now.minute and 4 >= now.second:
             webbrowser.open(dictionary['links'][w])
             time.sleep(6)
-            exit()
+            print("Opening ", w)
     time.sleep(0.1)
