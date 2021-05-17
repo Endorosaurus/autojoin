@@ -18,59 +18,59 @@
 	{
 		'Monday':
 		{
-			'pe':'1603',
-			'math':'1650',
-			'latin':'1813',
-			'writing':'1900',
-			'english':'2047',
-			'history':'2134',
-			'science':'2221',
+			'pe':'08:03',
+			'math':'08:50',
+			'latin':'10:13',
+			'writing':'11:00',
+			'english':'12:47',
+			'history':'13:34',
+			'science':'14:21',
 		},
 		'Tuesday':
 		{
-			'pe':'1603',
-			'math':'1650',
-			'latin':'1813',
-			'writing':'1900',
-			'english':'2047',
-			'history':'2134',
-			'science':'2221',
-			'advisory':'1750',
+			'pe':'08:03',
+			'math':'08:50',
+			'advisory':'09:50',
+			'latin':'10:13',
+			'writing':'11:00',
+			'english':'12:47',
+			'history':'13:34',
+			'science':'14:21',
 		},
 		'Wednesday':
 		{
-			'latin':'1813',
-			'writing':'1900',
-			'english':'2047',
-			'science':'2134',
-			'science':'2221',
+			'latin':'10:13',
+			'writing':'11:00',
+			'english':'12:47',
+			'science':'13:34',
+			'science':'14:21',
 		},
 		'Thursday':
 		{
-			'health':'1603',
-			'math':'1650',
-			'writing':'1900',
-			'english':'2047',
-			'history':'2134',
-			'science':'2221',
-			'advisory':'1750',
+			'health':'08:03',
+			'math':'08:50',
+			'advisory':'09:50',
+			'writing':'11:00',
+			'english':'12:47',
+			'history':'13:34',
+			'history':'14:21',
 		},
 		'Friday':
 		{
-			'pe':'1603',
-			'math':'1649',
-			'latin':'1745',
-			'history':'2103',
-			'science':'2149',
-			'links':'2235'
+			'pe':'08:03',
+			'math':'08:49',
+			'latin':'09:45',
+			'history':'13:03',
+			'science':'13:49',
+			'links':'14:35'
 		},
 		'Saturday':
 		{
-			'links':'1700',
+
 		},
 		'Sunday':
 		{
-			'links':'2350'
+
 		}
 	}
 
