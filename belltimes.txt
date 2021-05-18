@@ -1,17 +1,17 @@
 {
 	'links':
 	{
-		'pe':'https://harker.zoom.us/j/3444162751',
-		'math':'https://harker.zoom.us/j/7905359934',
-		'latin':'https://harker.zoom.us/j/4977073070',
-		'writing':'https://harker.zoom.us/j/5079984455',
-		'english':'https://harker.zoom.us/j/6378279000',
-		'history':'https://harker.zoom.us/j/4485121844',
-		'science':'https://harker.zoom.us/j/7174570515',
-		'advisory':'https://harker.zoom.us/j/2400194694',
-		'links':'https://site.togatech.org/harkermszoom/',
-		'health':'https://harker.zoom.us/j/2909882138',
-		'rsm':'https://russianschool.zoom.us/j/94299167457?pwd=dFZGQTQyaGJKK2RsTWFhelVTK1B1UT09'
+		'pe':'link',
+		'math':'link',
+		'latin':'link',
+		'writing':'link',
+		'english':'link',
+		'history':'link',
+		'science':'link',
+		'advisory':'link',
+		'links':'link',
+		'health':'link',
+		'rsm':'link'
 		
 	},
 	'times':
